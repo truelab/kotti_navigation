@@ -1,0 +1,6 @@
+recursive-include kotti_navigation/alembic *
+recursive-include kotti_navigation/locale *
+recursive-include kotti_navigation/static *
+recursive-include kotti_navigation/templates *
+recursive-include kotti_navigation/tests *
+recursive-include kotti_navigation *.zcml
